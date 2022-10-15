@@ -373,7 +373,7 @@ myClass.foreach(println _)
 #### Q44. What do you call a Scala method that is parametrized by type as well as by value?
 
 - [ ] multimode method
-- [ ] polymorphic method
+- [x] polymorphic method
 - [ ] closure
 - [ ] collection method
 
