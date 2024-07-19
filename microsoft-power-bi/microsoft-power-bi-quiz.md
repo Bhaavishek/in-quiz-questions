@@ -7,9 +7,9 @@ B. geospatial data
 C. city names, country names
 D. longitude, latitude
 
-- [x] A, B, C, D
+- [ ] A, B, C, D
 - [ ] A, C, D
-- [ ] B, C, D
+- [x] B, C, D
 - [ ] D
 
 #### Q2. How do you create a chart visual in Power BI Desktop Report view? (Select all that apply.)
@@ -19,10 +19,10 @@ D. longitude, latitude
     C. Click New Visual on the Data Tools tab.
     D. Select a field that contains values.
 
-- [ ] A, B, or D
+- [x] A, B, or D
 - [ ] B or D
 - [ ] B orC
-- [x] A or B
+- [ ] A or B
 
 #### Q3. What daily sales number does this DAX measure formula calculate?
 
