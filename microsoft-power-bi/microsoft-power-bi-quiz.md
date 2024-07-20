@@ -203,9 +203,9 @@ NOTE: Data gets processed and reduced in the Power query editor. Corect answer i
 
 #### Q23. You have a report in Power BI service and want to save the state of a report page for easy access. What feature helps you do this?
 
-- [x] views
+- [ ] views
 - [ ] filters
-- [ ] bookmarks
+- [x] bookmarks
 - [ ] slicers
 
 #### Q24. What should you do to increase the readability of a report?
